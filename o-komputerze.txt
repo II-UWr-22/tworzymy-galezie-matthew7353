@@ -1,0 +1,1 @@
+Linux laptop4school 5.15.74.2-microsoft-standard-WSL2 #1 SMP Wed Nov 2 19:50:29 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
